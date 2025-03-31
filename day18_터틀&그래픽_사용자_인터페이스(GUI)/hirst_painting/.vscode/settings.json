@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
